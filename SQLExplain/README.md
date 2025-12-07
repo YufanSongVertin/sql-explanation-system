@@ -36,6 +36,8 @@ project/
 │   ├── col_semantics.py        # Column semantic guessing via LLM
 │   └── __init__.py
 │
+├── WebUI.bat
+├── WebUI.sh
 ├── requirements.txt
 └── README.md
 ```
@@ -51,7 +53,7 @@ git clone https://github.com/YufanSongVertin/sql-explainer-system.git
 cd sql-explainer
 ```
 
-Install dependencies(or you can run the WebUI.bat which automatically installs all and open the WebUI):
+Install dependencies(or you can run the WebUI which automatically installs all and open the WebUI):
 
 ```bash
 pip install -r requirements.txt
@@ -70,7 +72,7 @@ export SQLEXPLAIN_MODEL_NAME="google/flan-t5-large"
 Launch the Streamlit application:
 
 Method 1: Run the bat file
-Click the WebUI.bat file in SQLExplain
+Click the WebUI.sh(Mac) or WebUI.bat(Windows) file in SQLExplain
 
 Method 2:
 ```bash
