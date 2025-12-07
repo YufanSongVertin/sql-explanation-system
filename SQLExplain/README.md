@@ -37,7 +37,7 @@ project/
 │   └── __init__.py
 │
 ├── WebUI.bat
-├── WebUI.sh
+├── WebUI.command
 ├── requirements.txt
 └── README.md
 ```
@@ -72,7 +72,7 @@ export SQLEXPLAIN_MODEL_NAME="google/flan-t5-large"
 Launch the Streamlit application:
 
 Method 1: Run the bat file
-Click the WebUI.sh(Mac) or WebUI.bat(Windows) file in SQLExplain
+Click the WebUI.command(Mac) or WebUI.bat(Windows) file in SQLExplain
 
 Method 2:
 ```bash
