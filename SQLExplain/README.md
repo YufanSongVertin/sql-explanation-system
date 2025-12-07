@@ -47,7 +47,7 @@ project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YufanSongVertin/sql-explainer.git
+git clone https://github.com/YufanSongVertin/sql-explainer-system.git
 cd sql-explainer
 ```
 
