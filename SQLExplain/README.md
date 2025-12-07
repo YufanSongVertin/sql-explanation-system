@@ -51,7 +51,7 @@ git clone https://github.com/YufanSongVertin/sql-explainer.git
 cd sql-explainer
 ```
 
-Install dependencies:
+Install dependencies(or you can run the WebUI.bat which automatically installs all and open the WebUI):
 
 ```bash
 pip install -r requirements.txt
